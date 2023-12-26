@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Lemon{
+    font-weight: 900;
+    font-size: 10.6rem;
+    line-height: .8;
+    color: transparent;
+    margin: 0;
+    -webkit-text-stroke: .01px rgba(0, 0, 0, 0.386);
+    letter-spacing: 5px;
+    text-align: center;
+    filter: blur(2px);
+    font-family: Clash Display Variable;
+}
+
